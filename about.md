@@ -4,19 +4,19 @@ title: About
 permalink: /about/
 ---
 
-Hi，我是 lemon.
+Hi，我是 songyq.
 
 ### 技能
 
-Linux后端分布式高性能服务开发，差一点精通 C++，Golang 成长中，Python小玩具。
+pytorch、mxnet深度学习框架爱好者，Golang成长中 ，Python小玩具，元宇宙追随者。
 
 ### 经历
 
-软件工程师(Software Engineer)，电子信息工程学士学位( Electronic and Information Engineering )，从事服务器软件后台开发工作多年，现就职腾讯（Tencent）公司。
+软件工程师(Software Engineer)，机械工程学士学位( Mechanical Engineering )，从事计算机视觉和边缘智能系统开发，现就职中国电信（Chinatelecom）公司。
 
-个人技术公众号「后端技术学堂」分享、记录、成长，欢迎扫码添加。
+#个人技术公众号「后端技术学堂」分享、记录、成长，欢迎扫码添加。
 
-![公众号二维码](https://upload-images.jianshu.io/upload_images/7842464-15f939ec039690f6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+#![公众号二维码](https://upload-images.jianshu.io/upload_images/7842464-15f939ec039690f6.png?imageMogr2/auto-#orient/strip%7CimageView2/2/w/1240)
 
 
 
